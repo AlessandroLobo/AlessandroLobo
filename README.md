@@ -42,7 +42,7 @@
 
 <br/>
 
-- ## Apaixonado por tecnologia.
+ ## Apaixonado por tecnologia.
 
 <br/>
 
