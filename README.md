@@ -4,4 +4,4 @@
 
 * Atualmente, estou aprendendo sobre o desenvolvimento de aplicativos com React Native e estou procurando oportunidades para colaborar em projetos de tecnologia. Se você tiver algum projeto em mente que possa me interessar, ficarei feliz em conversar e ver como posso ajudar.
 
-* Para entrar em contato comigo, você pode enviar um e-mail para alessandrolobo@email.com ou me seguir no LinkedIn em linkedin.com/in/alessandrolobo. Estou ansioso para conversar e conhecer novas pessoas da comunidade de tecnologia!
+* Para entrar em contato comigo, você pode enviar um e-mail para alessandrolobo@email.com ou me seguir no LinkedIn em linkedin.com/in/alessandrolobo Estou ansioso para conversar e conhecer novas pessoas da comunidade de tecnologia!
