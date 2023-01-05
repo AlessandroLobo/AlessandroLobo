@@ -43,6 +43,14 @@
 
 <br/>
 
+<br/>
+
+<div  align="center" style="display: inline_block">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alessandrolobo&bg_color=282a36&color=ffffff&line=dedede&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div/>
+
 <div align="center" style="display: inline_block">
 
 ## Algumas das tecnologias que uso no meu dia.
@@ -51,7 +59,8 @@
 
 <br/>
 
-<div align="center" style="display: inline_block">
+<div  align="center" style="display: inline_block">
+
  <img align="center" alt="AlessandroLobo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="AlessandroLobo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="AlessandroLobo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -72,7 +81,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="center" alt="AlessandroLobo" height="60" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" >
-<img align="center" alt="AlessandroLobo" height="60" width="60"
+<img   align="center" alt="AlessandroLobo" height="60" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
-           
+
 <div/>
+
