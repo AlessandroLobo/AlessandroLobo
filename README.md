@@ -86,3 +86,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
 
 <div/>
 
+
+![Snake animation](https://github.com/seu-usuário-aqui/alessandro.lobo/blob/output/github-contribution-grid-snake.svg)
