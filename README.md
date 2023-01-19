@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Alessandro+Lobo;Sempre+estudando+para+me+aperfeiçoar+sempre+mais!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Alessandro+Lobo+✋;Sempre+estudando+para+me+aperfeiçoar+sempre+mais!!!)](https://git.io/typing-svg)
 <div align="center" style="display: inline_block">
 
-# Olá! sou Alessandro Lobo ✋
+ 
 
 </div>
 
