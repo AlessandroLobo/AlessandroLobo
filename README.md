@@ -5,7 +5,7 @@
 
 </div>
 
-- ### Sou desenvolvedor de software com experiência em .NET, C#, JavaScript, SQL, HTML e CSS entre outras tecnologias. Tenho interesse em tecnologias web e mobile, e gosto de me manter atualizado sobre as últimas tendências e práticas do mercado.
+- ### Sou desenvolvedor de software com experiência em .NET, C#, JavaScript/TypeScript, SQL, HTML e CSS entre outras tecnologias. Tenho interesse em tecnologias web e mobile, e gosto de me manter atualizado sobre as últimas tendências e práticas do mercado.
 
 - ### Atualmente, estou me especializando em desenvolvimento de aplicativos web e mobile e procurando oportunidades para colaborar em projetos de tecnologia. Se você tiver algum projeto em mente que possa me interessar, ficarei feliz em conversar e ver como posso ajudar.
 
