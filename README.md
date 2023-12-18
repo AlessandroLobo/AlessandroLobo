@@ -1,17 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Alessandro+Lobo+✋;Sempre+estudando+para+me+aperfeiçoar+sempre+mais!!!)](https://git.io/typing-svg)
-<div align="center" style="display: inline_block">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessandro Lobo
+=======================================================================================================================================
 
- 
+Software Engineer
+-----------------
 
-</div>
+I love code!
 
-- ### Sou desenvolvedor de software com experiência em .NET, C#, JavaScript/TypeScript, SQL, HTML e CSS entre outras tecnologias. Tenho interesse em tecnologias web e mobile, e gosto de me manter atualizado sobre as últimas tendências e práticas do mercado.
+* 🌍  I'm based in Franca Sp - Brasil
+* 🖥️  See my portfolio at [Latest live full-stack project.](http://https://corpusfit.app.br/)
+* ✉️  You can contact me at [alessandro.lobo@hotmail.com](mailto:alessandro.lobo@hotmail.com)
+* 🚀  I'm currently working on [Corpus Fit Training Online](http://corpusfit.app.br/)
+* 🧠  I'm learning React Native
 
-- ### Atualmente, estou me especializando em desenvolvimento de aplicativos web e mobile e procurando oportunidades para colaborar em projetos de tecnologia. Se você tiver algum projeto em mente que possa me interessar, ficarei feliz em conversar e ver como posso ajudar.
-
-- ### Estou ansioso para conversar e conhecer novas pessoas da comunidade de tecnologia!
-
-<br/>
+### Skills
 
 <div align="center" style="display: inline_block">
 
