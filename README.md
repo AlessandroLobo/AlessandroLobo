@@ -12,7 +12,6 @@ I love code!
 * 🚀  I'm currently working on [Corpus Fit Training Online](http://corpusfit.app.br/)
 * 🧠  I'm learning React Native
 
-### Skills
 
 <div align="center" style="display: inline_block">
 
