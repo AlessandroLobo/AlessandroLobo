@@ -46,6 +46,9 @@ I love code!
 
 <div  align="center" style="display: inline_block">
 
+
+<div  align="center" style="display: inline_block">
+
  <img align="center" alt="AlessandroLobo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="AlessandroLobo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="AlessandroLobo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
