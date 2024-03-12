@@ -7,7 +7,7 @@ Software Engineer
 I love code!
 
 *   🌍  I'm based in Franca Sp - Brasil
-*   🖥️  See my portfolio at [Latest live full-stack project.](http://https://corpusfit.app.br/)
+*   🖥️  See my portfolio at [Latest live full-stack project.](https://corpusfit.app.br/)
 *   ✉️  You can contact me at [alessandro.lobo@hotmail.com](mailto:alessandro.lobo@hotmail.com)__
 *   🚀  I'm currently working on [Corpus Fit Training Online](http://corpusfit.app.br/)
 *   🧠  I'm learning React Native### Skills
