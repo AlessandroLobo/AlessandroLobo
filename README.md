@@ -23,7 +23,7 @@
 - 📚 Estudando React Native
 - 🖥️ Projeto pessoal em produção: [Corpus Fit — Treinamento Online](https://corpusfit.app.br/)
 
-> 🔎 **Aberto a oportunidades** como desenvolvedor Backend .NET / Full-stack Blazor.
+
 
 ---
 
