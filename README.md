@@ -2,9 +2,9 @@
 
 # Alessandro Lobo
 
-### Engenheiro de Software · .NET · Folha de Pagamento & eSocial
+### Engenheiro de Software · .NET · Folha de Pagamento & eSocial · IDE com Agentes de IA
 
-*Sistemas end-to-end de gestão social, folha e compliance fiscal.*
+*Sistemas end-to-end de gestão social, folha e compliance fiscal. Criador do AgenteCode.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandrolobodev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolobodev/)
 [![E-mail](https://img.shields.io/badge/E--mail-alessandro.lobo@hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alessandro.lobo@hotmail.com)
@@ -17,13 +17,12 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🏢 Desenvolvedor de software na **Eficaz Sistemas de Gestão e Inteligência Tributária** (mai/2024 – atual)
+- 🏢 Desenvolvedor de software na **Eficaz Sistemas de Gestão e Inteligência Tributária** (mai/2024 – atual) · mantenedor do [EficazERP](https://github.com/Eficaz-Sistemas)
+- 🤖 Criador e mantenedor do **[AgenteCode](https://github.com/agentecode/agentecode)**, uma IDE open source para desenvolvimento com agentes de IA
 - 🧩 Especialista em **RH, Folha de Pagamento e Compliance Fiscal** (eSocial)
 - 🌍 Franca, SP — Brasil · Remoto
 - 📚 Estudando React Native
 - 🖥️ Projeto pessoal em produção: [Corpus Fit — Treinamento Online](https://corpusfit.app.br/)
-
-
 
 ---
 
@@ -33,6 +32,25 @@
 - **70+ projetos** em Clean Architecture, organizados em módulos independentes
 - **CI com testes em 3 bancos reais:** SQL Server, MySQL e PostgreSQL
 - Contribuo com o [EficazFramework.SPED](https://github.com/Eficaz-Sistemas/EficazFramework.SPED) (MIT): EFD, ECD, ECF, Reinf e eSocial S-1.3
+
+---
+
+## 🤖 AgenteCode
+
+<div align="center">
+  <a href="https://agentecode.github.io">
+    <img src="https://agentecode.github.io/assets/og-image.png" alt="AgenteCode" width="600" />
+  </a>
+</div>
+
+IDE open source (MIT), fork do **Code - OSS**, pensada para a era agêntica: sem Copilot, sem telemetria no núcleo e com o **Claude Code** já embutido.
+
+- 🎨 Suíte de 8 temas próprios, incluindo as variantes *Clean* sem bordas
+- 🧩 Extensões pelo **Open VSX**, sem depender do marketplace da Microsoft
+- 📦 Instalador Windows gerado por **GitHub Actions**, com atualização via GitHub Releases em desenvolvimento
+- 🌐 Site: [agentecode.github.io](https://agentecode.github.io) · Código: [agentecode/agentecode](https://github.com/agentecode/agentecode)
+
+> Projeto independente, sem vínculo com a Microsoft ou a Anthropic.
 
 ---
 
@@ -77,7 +95,7 @@ Integração completa com a plataforma eSocial (gov.br) via WebServices:
 | **Testes** | ![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square&logo=nunit&logoColor=white) ![bUnit](https://img.shields.io/badge/bUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **Domínio** | ![eSocial](https://img.shields.io/badge/eSocial-S--1.3-FFC107?style=flat-square) ![SPED](https://img.shields.io/badge/SPED-EFD_·_ECD_·_ECF_·_Reinf-4CAF50?style=flat-square) ![Folha](https://img.shields.io/badge/Folha_de_Pagamento-INSS_·_IRRF_·_FGTS-0891B2?style=flat-square) |
-| **Também uso** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Também uso** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code_Fork-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 **Práticas:** Clean Architecture · Testes automatizados · CI/CD · Mensageria · Multi-banco
 
