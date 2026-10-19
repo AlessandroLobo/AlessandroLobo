@@ -17,12 +17,48 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🏢 Desenvolvedor de software na **Eficaz Sistemas de Gestão e Inteligência Tributária** (mai/2024 – atual) · mantenedor do [EficazERP](https://github.com/Eficaz-Sistemas)
-- 🤖 Criador e mantenedor do **[AgenteCode](https://github.com/agentecode/agentecode)**, uma IDE open source para desenvolvimento com agentes de IA
+- 🏢 Desenvolvedor de software na **Eficaz Sistemas de Gestão e Inteligência Tributária** (mai/2024 – atual)
+- 🤖 Criador e mantenedor do **AgenteCode**, uma IDE open source para desenvolvimento com agentes de IA
 - 🧩 Especialista em **RH, Folha de Pagamento e Compliance Fiscal** (eSocial)
 - 🌍 Franca, SP — Brasil · Remoto
 - 📚 Estudando React Native
 - 🖥️ Projeto pessoal em produção: [Corpus Fit — Treinamento Online](https://corpusfit.app.br/)
+
+---
+
+## 📌 Projetos que mantenho
+
+<table>
+  <tr>
+    <td width="64" valign="top">
+      <a href="https://github.com/agentecode/agentecode">
+        <img src="https://github.com/agentecode.png?size=96" alt="AgenteCode" width="48" height="48" />
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/agentecode/agentecode">AgenteCode</a></b> · Criador e mantenedor<br/>
+      IDE open source (fork do Code - OSS) pensada para a era agêntica: sem Copilot, sem telemetria no núcleo e com o Claude Code embutido. Temas próprios, extensões pelo Open VSX e instalador Windows via GitHub Actions.<br/>
+      <a href="https://github.com/agentecode/agentecode"><img src="https://img.shields.io/github/stars/agentecode/agentecode?style=flat-square&logo=github" alt="Estrelas" /></a>
+      <a href="https://github.com/agentecode/agentecode/releases"><img src="https://img.shields.io/github/v/release/agentecode/agentecode?include_prereleases&style=flat-square&label=vers%C3%A3o" alt="Versão" /></a>
+      <a href="https://github.com/agentecode/agentecode/blob/HEAD/LICENSE.txt"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=flat-square" alt="Licença MIT" /></a>
+      <a href="https://agentecode.github.io"><img src="https://img.shields.io/badge/site-agentecode.github.io-002B49?style=flat-square" alt="Site" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="64" valign="top">
+      <a href="https://github.com/Eficaz-Sistemas">
+        <img src="https://github.com/Eficaz-Sistemas.png?size=96" alt="Eficaz Sistemas" width="48" height="48" />
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Eficaz-Sistemas">EficazERP</a></b> · Desenvolvedor e mantenedor<br/>
+      ERP de gestão social, folha de pagamento e eSocial da Eficaz Sistemas, em C# / .NET 10 com Clean Architecture.<br/>
+      <a href="https://github.com/Eficaz-Sistemas/EficazFramework.SPED"><img src="https://img.shields.io/badge/EficazFramework.SPED-contribuidor-0891B2?style=flat-square" alt="EficazFramework.SPED" /></a>
+    </td>
+  </tr>
+</table>
+
+> O AgenteCode é um projeto independente, sem vínculo com a Microsoft ou a Anthropic.
 
 ---
 
@@ -32,25 +68,6 @@
 - **70+ projetos** em Clean Architecture, organizados em módulos independentes
 - **CI com testes em 3 bancos reais:** SQL Server, MySQL e PostgreSQL
 - Contribuo com o [EficazFramework.SPED](https://github.com/Eficaz-Sistemas/EficazFramework.SPED) (MIT): EFD, ECD, ECF, Reinf e eSocial S-1.3
-
----
-
-## 🤖 AgenteCode
-
-<div align="center">
-  <a href="https://agentecode.github.io">
-    <img src="https://agentecode.github.io/assets/og-image.png" alt="AgenteCode" width="600" />
-  </a>
-</div>
-
-IDE open source (MIT), fork do **Code - OSS**, pensada para a era agêntica: sem Copilot, sem telemetria no núcleo e com o **Claude Code** já embutido.
-
-- 🎨 Suíte de 8 temas próprios, incluindo as variantes *Clean* sem bordas
-- 🧩 Extensões pelo **Open VSX**, sem depender do marketplace da Microsoft
-- 📦 Instalador Windows gerado por **GitHub Actions**, com atualização via GitHub Releases em desenvolvimento
-- 🌐 Site: [agentecode.github.io](https://agentecode.github.io) · Código: [agentecode/agentecode](https://github.com/agentecode/agentecode)
-
-> Projeto independente, sem vínculo com a Microsoft ou a Anthropic.
 
 ---
 
